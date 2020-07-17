@@ -4,16 +4,27 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: file
-  name: hero
-  label: hero
+  label: Title
 - type: text
   name: excerpt
-  label: excerpt
-- type: list
-  name: authors
-  label: authors
+  label: Excerpt
+- type: datetime
+  name: date
+  label: Date
+- name: timeToRead
+  type: number
+  label: Read Time
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- type: file
+  name: hero
+  label: Hero Image
+- name: authors
+  type: tag_list
+  default: []
+  label: Authors
