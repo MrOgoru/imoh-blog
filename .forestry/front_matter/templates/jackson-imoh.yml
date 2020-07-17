@@ -44,4 +44,5 @@ fields:
   description: Feature this author on the home page
   label: Feature Author
 pages:
+- Config/_default/imoh-jackson.md
 - content/authors/Imoh Jackson/_index.md
