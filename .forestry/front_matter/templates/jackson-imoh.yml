@@ -2,11 +2,47 @@
 label: 'Jackson Imoh '
 hide_body: true
 fields:
-- name: twitter
+- name: name
   type: text
   config:
     required: false
-  label: TWITTER
+  label: Name
+- name: bio
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bio
+- name: avatar
+  type: file
+  config:
+    maxSize: 64
+  label: Avatar Image
+- name: social
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Social Media
+- name: featured
+  type: boolean
+  label: Feature Author
+  description: Feature this author on the home page
 pages:
 - Config/_default/social.yaml-1.md
 - content/authors/Imoh Jackson/_index.md
