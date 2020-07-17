@@ -1,6 +1,6 @@
 ---
 title: Wisdom For Men
-date: 2020-07-16T13:43:35.000+01:00
+date: 2020-07-17T12:43:35+00:00
 hero: "/images/photo0.jpg"
 excerpt: Wisdom is greater than any treasure
 authors:
