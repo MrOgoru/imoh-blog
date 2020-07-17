@@ -1,13 +1,13 @@
 ---
-title: "Wisdom For Men"
-date: 2020-07-16T13:43:35+01:00
-draft: false
+title: Wisdom For Men
+date: 2020-07-16T13:43:35.000+01:00
 hero: "/images/photo0.jpg"
 excerpt: Wisdom is greater than any treasure
 authors:
-  - Imoh Jackson
----
+- Imoh Jackson
+timeToRead: 2
 
+---
 I’ve found a few tips that I consider a MUST READ for every man. Please read through, comment and share.
 
 A Man must understand that he is first, a Husband, Father and Priest (Pastor) of his family before he is anything else out there!
