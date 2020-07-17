@@ -24,16 +24,16 @@ sections:
 - type: heading
   label: Data
 - type: directory
+  path: content/authors
+  label: Authors
+  create: all
+  match: "**/_index.md"
+- type: directory
   path: Config/_default
   label: Config
   create: all
   match: "**/*"
   exclude: yalm
-- type: directory
-  path: content/authors
-  label: Authors
-  create: all
-  match: "**/_index.md"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
