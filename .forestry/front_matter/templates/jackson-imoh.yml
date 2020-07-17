@@ -2,11 +2,11 @@
 label: 'Jackson Imoh '
 hide_body: true
 fields:
-- name: title
+- name: twitter
   type: text
   config:
     required: false
-  label: Name
+  label: TWITTER
 pages:
 - Config/_default/social.yaml-1.md
 - content/authors/Imoh Jackson/_index.md
