@@ -43,3 +43,5 @@ fields:
   type: boolean
   description: Feature this author on the home page
   label: Feature Author
+pages:
+- content/authors/Imoh Jackson/_index.md
