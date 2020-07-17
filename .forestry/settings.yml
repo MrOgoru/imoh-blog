@@ -4,16 +4,24 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: heading
+  label: CONTENT
 - type: directory
   path: content/post
   label: Post
   create: all
   match: "**/*"
+- type: directory
+  path: Config/_default
+  label: Config
+  create: all
+  match: "**/*"
+  exclude: yalm
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 - type: directory
   path: content/authors
   label: Authors
