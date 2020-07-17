@@ -27,13 +27,15 @@ sections:
   path: content/authors
   label: Authors
   create: all
-  match: "**/_index.md"
+  match: "**/*"
+  templates:
+  - jackson-imoh
 - type: directory
   path: Config/_default
   label: Config
   create: all
   match: "**/*"
-  exclude: yalm
+  exclude: yaml
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
