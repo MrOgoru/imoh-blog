@@ -1,0 +1,4 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Daily Dose Devotional"
+theme="hugo-theme-novela-master"
