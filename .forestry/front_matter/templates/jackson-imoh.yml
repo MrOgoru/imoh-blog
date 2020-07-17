@@ -9,5 +9,4 @@ fields:
   label: Name
 pages:
 - Config/_default/social.yaml-1.md
-- Config/_default/social.yaml.md
 - content/authors/Imoh Jackson/_index.md
