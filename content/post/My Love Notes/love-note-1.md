@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-11-05T12:00:00Z
-draft = true
 excerpt = "LOVE is truly a strong feeling with sometimes unimaginable feelings, rooted from within, expressed all over - within and outside!"
 hero = "/uploads/whatsapp-image-2020-10-12-at-08-52-23.jpeg"
 timeToRead = 1
