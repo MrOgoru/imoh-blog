@@ -29,5 +29,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/My Love Notes/love-note-1.md
 - content/post/he can.md
 - content/post/making-jesus.md
