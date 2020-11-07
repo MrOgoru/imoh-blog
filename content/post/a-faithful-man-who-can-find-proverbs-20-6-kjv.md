@@ -4,7 +4,7 @@ date = 2020-11-05T12:00:00Z
 excerpt = "We never stop talking about the FAITHFULNESS of GOD. But as His Child are You FAITHFUL? As a Partner are You FAITHFUL?   A FAITHFUL Man is so rare that you'll always Bless GOD for finding one in your life. Such Men are not found everywhere...   It's not what they say to you about themselves that matters, but a careful observation of the words versus actions. "
 hero = "/uploads/pexels-joao-jesus-3512506.jpg"
 timeToRead = 2
-title = "...a faithful man who can find? Proverbs 20:6 [KJV] "
+title = "a faithful man who can find? Proverbs 20:6 [KJV] "
 
 +++
 **"Most men will proclaim every one his own goodness: but a faithful man who can find?**
