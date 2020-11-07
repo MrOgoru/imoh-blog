@@ -2,7 +2,7 @@
 authors = []
 date = 2020-11-05T12:00:00Z
 excerpt = "Although COUNSEL is crucial to our relevance and Life, so much that it's seen as \"deep water\" that never runs dry, it is however neither drawn nor received by all. It'll be rejected by many.  But those who understand it's worth and grasp it and meditate on it and apply it is referred to as \"A MAN OF UNDERSTANDING!\" The prerequisites for drawing out COUNSEL is UNDERSTANDING! "
-hero = "/uploads/images.jpeg"
+hero = "/uploads/pexels-pixabay-207700-1.jpg"
 timeToRead = 3
 title = "...but a man of understanding... Proverbs 20:5"
 
